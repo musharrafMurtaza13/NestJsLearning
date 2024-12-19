@@ -1,5 +1,8 @@
 # NestJsLearning
 
+node --->v22.12.0
+npm -----> 10.9.0
+
 Now it’s time to create a module. Create a songs module using nest cli
 nest g module songs
 
